@@ -5,7 +5,7 @@
 This folder contains all materials required for the Econometrics Assignment. It includes:
 
 - **PDF report** with analytical answers and all required figures/tables
-- **Stata do-file** used for data preparation, estimation, and figure generation
+- **Stata do-files** used for data preparation, estimation, and figure generation
 - **Dataset(s)** required to run the code
 
 ## Folder Structure
@@ -24,6 +24,9 @@ project_folder/
 - Question 2
 - Question 3
 
+## Q1
+
+## Q2
 
 ## Q3 
 
