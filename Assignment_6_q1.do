@@ -22,5 +22,5 @@ import delimited "ps1_q1.csv", clear
 keep if time > 1
 tabstat teacher_attendance, by(treat) stats(mean sd n)
 
-reg teacher_attendance treat
+reg teacher_attendance treat, cluster(schid)
 
