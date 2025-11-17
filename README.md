@@ -44,8 +44,6 @@ The script will automatically:
 
 ### Notes
 - The script requires no manual input once the working directory is correctly set.
-- Standard errors in Question 1.2 are clustered at the school level (`schid`).
-- Table outputs follow the AER-style layout to match the original paper.
 - Ensure that `ps1_q1.csv` is located in the correct folder relative to the `.do` file or adjust the file path accordingly.
 
 
