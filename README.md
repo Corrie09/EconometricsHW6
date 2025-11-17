@@ -14,7 +14,10 @@ This folder contains all materials required for the Econometrics Assignment. It 
 project_folder/
 ├── Assignment_Report.pdf
 ├── Assignment_6_q3.do
+├── Assignment_6_q1.do
+├── Assignment_6_q2.do
 ├── ps1_q3.dta
+├── ps1_q2.dta
 └── README.md
 ```
 
