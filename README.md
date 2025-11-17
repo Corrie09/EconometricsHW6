@@ -26,6 +26,30 @@ project_folder/
 
 ## Q1
 
+### Requirements
+
+- Stata 17 or later
+
+### How to Run the Code
+
+1. Open Stata
+2. Set the working directory to the project folder
+3. Run the do-file: `Assignment_6_q1.do`
+
+The script will automatically:
+- Load the dataset `ps1_q1.csv`
+- Generate baseline means for teacher attendance and student attendance (Question 1.1)
+- Estimate the post-treatment effect of the program using OLS with clustered standard errors (Question 1.2)
+- Produce all required tables for inclusion in the report
+
+### Notes
+- The script requires no manual input once the working directory is correctly set.
+- Standard errors in Question 1.2 are clustered at the school level (`schid`).
+- Table outputs follow the AER-style layout to match the original paper.
+- Ensure that `ps1_q1.csv` is located in the correct folder relative to the `.do` file or adjust the file path accordingly.
+
+
+
 ## Q2
 
 ## Q3 
