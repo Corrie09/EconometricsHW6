@@ -16,8 +16,9 @@ project_folder/
 ├── Assignment_6_q3.do
 ├── Assignment_6_q1.do
 ├── Assignment_6_q2.do
-├── ps1_q3.dta
+├── ps1_q1.csv
 ├── ps1_q2.dta
+├── ps1_q3.dta
 └── README.md
 ```
 
